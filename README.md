@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyankaa115
+- 👋 Hi, I’m @priyanka115
 - 👀 I’m interested in engaging with developers community
 - 🌱 I’m currently learning advance concepts in algorithms and software developement
 - 💞️ I’m looking to collaborate on inovative data science ventures
